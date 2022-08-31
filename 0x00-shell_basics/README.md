@@ -1,1 +1,1 @@
-0x00-shell_basics
+This repository tells hows to print current working directory
